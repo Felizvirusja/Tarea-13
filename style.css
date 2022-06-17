@@ -1,0 +1,20 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+    font-size: 20px;
+    font-family: "Comic Sans MS", "Comic Sans";
+    font-weight: 400;
+    color: rgb(0, 255, 221);
+}
+body{
+    margin: 0px;
+    
+    background-color: rgb(6, 68, 204);
+}
+.Título{
+    color:#ff0000;
+    font-family: fantasy;
+
+}
